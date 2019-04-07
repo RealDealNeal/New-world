@@ -1,6 +1,6 @@
 # hello-world
 
-Hello all Earth creatures.
+Hello everyone.
 
 When I was younger I wanted to live an interesting life. 
 To a great extent I have lived a life that was not boring. 
